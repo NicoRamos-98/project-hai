@@ -42,5 +42,10 @@ A full reveal is coming soon...
 - A lot of imagination and late-night coding ☕  
 
 ---
+## 🔗 Project Link  
+Check out the repository here:  
+👉 [Project H.A.I.](https://github.com/NicoRamos-98/project-hai)
+
+---
 
 Stay tuned. The assistant of the future is in the making.  # project-hai
